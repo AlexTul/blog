@@ -4,11 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9dc9cd1a-311e-4818-a6cb-8f03f0b34301" name="Changes" comment="problem - not start">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+    <list default="true" id="9dc9cd1a-311e-4818-a6cb-8f03f0b34301" name="Changes" comment="start successful">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/blog-add.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/blog-details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/blog-edit.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/blog/controllers/BlogController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/blog/controllers/BlogController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/blog/model/Post.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/blog/model/Post.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/blocks/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/blocks/header.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/blog-main.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/blog-main.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,9 +22,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Class" />
         <option value="Interface" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -130,7 +134,7 @@
       <updated>1669232646616</updated>
       <workItem from="1669232648487" duration="2656000" />
       <workItem from="1669278350478" duration="10472000" />
-      <workItem from="1669293797281" duration="1770000" />
+      <workItem from="1669293797281" duration="8436000" />
     </task>
     <task id="LOCAL-00001" summary="first start">
       <created>1669236389241</created>
@@ -167,7 +171,21 @@
       <option name="project" value="LOCAL" />
       <updated>1669294034665</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="start successful">
+      <created>1669296230504</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1669296230504</updated>
+    </task>
+    <task id="LOCAL-00007" summary="start successful">
+      <created>1669296241950</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1669296241950</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -190,6 +208,7 @@
     <MESSAGE value="/, blog, about - to load" />
     <MESSAGE value="/, blog, about - to load - first commit" />
     <MESSAGE value="problem - not start" />
-    <option name="LAST_COMMIT_MESSAGE" value="problem - not start" />
+    <MESSAGE value="start successful" />
+    <option name="LAST_COMMIT_MESSAGE" value="start successful" />
   </component>
 </project>
